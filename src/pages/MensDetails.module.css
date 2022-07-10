@@ -1,0 +1,24 @@
+
+.det_container{
+    /* border: 1px solid; */
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 30%;
+    margin: auto;
+    /* background-color: rgb(255, 200, 127); */
+}
+.det_container img{
+    width: 100%;
+    height: 100%;
+}
+/* .det_container2{
+   border-top: 1px solid;
+} */
+.det_container_btn{
+    background-color: rgb(255, 200, 127); 
+    margin-top: 30px;
+    margin-bottom: 20px;
+    padding: 10px 30px;
+    font-size: 20px;
+    font-weight: 500;
+    border-radius: 5px;
+}

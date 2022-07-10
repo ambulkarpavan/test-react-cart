@@ -1,0 +1,20 @@
+.footer_main_container{
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 100px;
+    background-color: rgb(12, 66, 12) ;
+    color: white;
+    margin-top: 50px;
+}
+.footer_main{
+    display: flex;
+    gap: 20px;
+     /* width: 200px; */
+     font-size: 30px;
+
+}
+
+.footer_2{
+    display: flex;
+    gap: 20px;
+}

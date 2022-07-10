@@ -1,0 +1,28 @@
+
+.main{
+    background-color: rgb(12, 66, 12);
+}
+.navbar_main{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    width: 60%;
+    margin: auto;
+    padding: 20px;
+}
+.btn{
+    /* color: white; */
+    font-size: 15px;
+    font-weight: 500;
+   border: none;
+   color: white;
+   text-decoration: none;
+}
+.btn:hover{
+    color: rgb(237, 116, 116);
+    cursor: pointer;
+}
+.icon{
+    font-size: 25px;
+   color: white;
+}

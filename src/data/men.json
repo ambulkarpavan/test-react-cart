@@ -1,0 +1,52 @@
+
+
+[
+    {
+        "id": 0 ,
+        "name": "Shirt",
+        "image": "https://rukminim1.flixcart.com/image/332/398/kzzw5u80/shirt/a/5/x/m-maw21eppcsh10035a-metronaut-original-imagbvvtgaawhvxw.jpeg?q=50",
+        "price": 499
+    },
+    {
+        "id": 1 ,
+        "name": "T-shirt",
+        "image": "https://assets.ajio.com/medias/sys_master/root/20220121/DwGv/61ea58afaeb2695cdd2436ee/-473Wx593H-461575169-maroon-MODEL.jpg",
+        "price": 399
+    },
+    {
+        "id": 2 ,
+        "name": "Casual shirt",
+        "image": "https://lp2.hm.com/hmgoepprod?set=source[/cc/4b/cc4b21d7e51e58c6e17f4eb9c42babb4266da392.jpg],origin[dam],category[],type[LOOKBOOK],res[z],hmver[1]&call=url[file:/product/main]",
+        "price": 799
+    },
+    {
+        "id": 3 ,
+        "name": "Night ware",
+        "image": "https://xcdn.next.co.uk/Common/Items/Default/Default/ItemImages/Search/224x336/365932.jpg",
+        "price": 359
+    },
+    {
+        "id": 4 ,
+        "name": "Formal pant",
+        "image": "https://5.imimg.com/data5/TF/IW/MY-17554435/men-casual-pant-500x500.jpg",
+        "price": 699
+    },
+    {
+        "id": 5 ,
+        "name": "Casual pants",
+        "image": "https://image.made-in-china.com/44f3j00UQhatqocoWYE/Navy-Check-Super-Skinny-Cropped-Trousers-Long-Pants-for-Men.jpg",
+        "price": 399
+    },
+    {
+        "id": 6 ,
+        "name": "Kurta",
+        "image": "https://5.imimg.com/data5/XS/VR/MY-43056660/designer-men-kurta-pajama-500x500.jpg",
+        "price": 999
+    },
+    {
+        "id": 7 ,
+        "name": "Track pant",
+        "image": "https://rukminim1.flixcart.com/image/714/857/kidgnm80-0/track-pant/c/c/g/m-solid-blue-jogger-trackpants-kizaar-original-imafy6rrzezgsefh.jpeg?q=50",
+        "price": 499
+    }
+]

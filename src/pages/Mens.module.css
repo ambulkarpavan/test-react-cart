@@ -1,0 +1,21 @@
+
+.men_main{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 40px;
+    width: 80%;
+    margin: auto;
+}
+
+.men_main_1a img{
+    width: 100%;
+    height: 100%;
+}
+.men_main_1{
+border: 1px solid;
+
+}
+.men_main_1a{
+    border-bottom: 1px solid;
+    height: 80%;
+}
